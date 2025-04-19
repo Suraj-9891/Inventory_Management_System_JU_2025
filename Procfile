@@ -1,0 +1,1 @@
+web: gunicorn Inventory_Management_System_2025.wsgi
